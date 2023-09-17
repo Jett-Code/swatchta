@@ -42,7 +42,6 @@ We will give users reward to dispose the solid waste and then convert those rewa
 6. We have also build an alarm system in which when a curbside truck enter in 100m radius then it starts ringing in your phone that curbside truck is near.
 
 # Conclusion
-Although we didn't win in Grand Finale Of Smart India Hackathon but we learnt many things along the process and we wish to carry forward this project without any hesitaion because we feel this idea holds something and have the capability to bring a change in the world.
 Some learnings are:
 1. Idea with best approach over anything. 
 2. Be Practical over Theoritical.
