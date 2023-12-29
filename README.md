@@ -1,5 +1,5 @@
 # Nirmal Bharat
-SIH Final project- Nirmal Bharat
+SIH'22 Final project- Nirmal Bharat
 
 # Problem Statement
 Suggest a solution to help municipal bodies maximise solid waste collection with their given resources.
